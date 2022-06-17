@@ -1,0 +1,8 @@
+1	Input search		
+1.1	Check empty field input		
+1.2	Check field's length input 		
+1.3	Check redirect to page 'Search result' when input field is valid.		
+1.4	Check unacceptable symbols *		
+2	Search result		
+2.1	Check search result if "search term" was found in database		
+2.2	Check search result if "search term" wasn't found in database		

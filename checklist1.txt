@@ -6,3 +6,6 @@
 2	Search result		
 2.1	Check search result if "search term" was found in database		
 2.2	Check search result if "search term" wasn't found in database		
+
+p.s. No ps
+
